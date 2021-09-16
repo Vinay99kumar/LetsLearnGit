@@ -1,6 +1,7 @@
-public class diff{
-hello vinay 
-hii vinay
-abhishek agnihotri
+public class sum{
+          public static void main(String[] args){
+System.out.println("hello vinay");
+
+
 }
 }
